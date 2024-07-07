@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhima10" alt="ridhima10" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/Ridhima10/Myportfolio)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/Ridhima10/RidhiPortfolio)
 
 - 🌱 I’m currently learning **MERN Stack**
 
