@@ -10,9 +10,9 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="90px" height="90px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="90px" height="90px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="90px" height="90px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="90px" height="90px" />
+<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="90px" height="90px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="90px" height="90px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="90px" height="90px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="90px" height="90px" /> -->
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhima10" alt="ridhima10" /></a> </p>
