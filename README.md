@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridhima Jain</h1>
-<h3 align="center">A passionate Web developer from India | 28th Rank in GSsoc'24 as a Contributor | MERN STACK</h3>
+<h3 align="center">A passionate Web developer from India || GSSoC'24 Contributor || MERN STACK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhima10&label=Profile%20views&color=0e75b6&style=flat" alt="ridhima10" /> </p>
 ## GSSOC(24) Badges 🪶
@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m actively contributing on [GSsoc'24](https://gssoc.girlscript.tech/)
+- 👯 Top contributor in [GSsoc'24](https://gssoc.girlscript.tech/) with 28th rank
 
 - 🤝 Most Contibuted Project [Chrome Gaming - Community Page](https://github.com/ChromeGaming/Community-Page)
 
