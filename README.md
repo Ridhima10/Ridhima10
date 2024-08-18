@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 Top contributor in [GSsoc'24](https://gssoc.girlscript.tech/) with 28th rank
+- 👯 Top contributor in [GSsoc'24](https://gssoc.girlscript.tech/) with 28th rank out of 2500+ contributors
 
 - 🤝 Most Contibuted Project [Chrome Gaming - Community Page](https://github.com/ChromeGaming/Community-Page)
 
